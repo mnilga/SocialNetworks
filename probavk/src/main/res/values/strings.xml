@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProbaSocial</string>
+    <string name="action_settings">Settings</string>
+    <integer name="com_vk_sdk_AppId">5396324</integer>
+    <string name="title_activity_application">Application</string>
+    <string name="facebook_app_id">1002194636516211</string>
+</resources>
